@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 58b647c5b2ec4184e9a07a561cdf0644
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 300
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JazzCreateBubble
+  fontNames:
+  - JazzCreateBubble
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
