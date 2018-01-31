@@ -23,7 +23,7 @@ public class Cube : MonoBehaviour {
 		r = Random.Range (0, 100) / 100f;
 		g = Random.Range (0, 100) / 100f;
 		b = Random.Range (0, 100) / 100f;
-
+		
 		rBack = Random.Range (0, 100) / 100f;
 		gBack = Random.Range (0, 100) / 100f;
 		bBack = Random.Range (0, 100) / 100f;

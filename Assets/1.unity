@@ -270,7 +270,7 @@ Prefab:
     - target: {fileID: 198892290176659946, guid: e761578fabc4baf4ca454586002f710b,
         type: 2}
       propertyPath: randomSeed
-      value: -1538838855
+      value: -1369403320
       objectReference: {fileID: 0}
     - target: {fileID: 198892290176659946, guid: e761578fabc4baf4ca454586002f710b,
         type: 2}
@@ -297,7 +297,7 @@ Prefab:
     - target: {fileID: 198892290176659946, guid: e761578fabc4baf4ca454586002f710b,
         type: 2}
       propertyPath: InitialModule.startLifetime.scalar
-      value: 25
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 198892290176659946, guid: e761578fabc4baf4ca454586002f710b,
         type: 2}
